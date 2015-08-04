@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "summary": "Convenience functions for working with Results in Elm.",
+    "repository": "https://github.com/NoRedInk/elm-result-extra.git",
+    "license": "BSD-3-Clause",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "Result.Extra"
+    ],
+    "dependencies": {
+        "elm-lang/core": "2.0.0 <= v < 3.0.0"
+    },
+    "elm-version": "0.15.0 <= v < 0.16.0"
+}
