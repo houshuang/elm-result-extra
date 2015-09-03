@@ -6,8 +6,6 @@ module Result.Extra (withDefault) where
 
 -}
 
-import Regex
-
 
 {-| Returns a `Result`'s contents if the `Result` is an `Ok`,
 or the given default value if the `Result` is an `Err`.
